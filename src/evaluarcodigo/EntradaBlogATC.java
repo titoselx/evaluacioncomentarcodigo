@@ -40,6 +40,10 @@ public class EntradaBlogATC {
         this.texto = texto;
     }
 
+    /**
+     *
+     * @return
+     */
     @Override
     public String toString() {
         String cad = "";
