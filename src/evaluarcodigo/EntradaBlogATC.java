@@ -9,6 +9,7 @@ package evaluarcodigo;
  *PRUEBA PARA ENTORNOS DE DESARROLLO
  * @author AARONTITOS
  */
+
 public class EntradaBlogATC {
     /**
      * Separador es el carácter que separa ENTRADA del nombre del autor
